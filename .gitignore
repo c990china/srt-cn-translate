@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+
+# 工作目录
+_work/
+out/
